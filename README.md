@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Inzaghi!
+# 👋 Hi, I'm Abdirizak!
 
-I'm a self-taught Frontend Developer passionate about building modern, fast, and accessible web apps.
+I'm a self-taught Full stack Developer passionate about building modern, fast, and accessible web apps.
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
-- ReactJS, Next.js, Tailwind CSS
+- ReactJS, Next.js, Tailwind CSS, ShadCN 
 - Git, GitHub, CLI
-- Currently learning: TypeScript & Framer Motion
+- Currently learning: TypeScript, Testing, and developing AI SaaS
 
 ## 📂 Projects
-- 🎨 [Bio Page Interactivity](https://github.com/YOUR_USERNAME/BioPage)
-- 📘 [JavaScript DOM Practice](https://github.com/YOUR_USERNAME/JS-DOM-Exercises)
+- 🎨 [Job Tracking App](https://trackjob.app)
+
 
 ## 📫 Let's Connect
 - [Portfolio](https://yourdomain.com)
