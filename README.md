@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdirizak!
 
-I'm a self-taught Full stack Developer passionate about building modern, fast, and accessible web apps.
+I'm a self-taught/Coding bootcamp Full stack Developer passionate about building modern, fast, and accessible web apps.
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
