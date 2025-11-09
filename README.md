@@ -1,15 +1,18 @@
 # 👋 Hi, I'm Abdirizak!
 
-I'm a self-taught/Coding bootcamp graduate as Full stack Developer passionate about building modern, fast, and accessible web apps.
+I'm a self-taught/Coding bootcamp graduate as Full stack Developer passionate about building modern, fast, and accessible web apps with both traditional and vibes methods!.
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
-- ReactJS, Next.js, Tailwind CSS, ShadCN 
+- ReactJS, Next.js, Tailwind CSS, ShadCN, lucide, framer-motion
 - Git, GitHub, CLI
 - Currently learning: TypeScript, Testing, and developing AI SaaS
 
 ## 📂 Projects
 - 🎨 [Job Tracking App](https://trackjob.app)
+- 🎨 [FREE Financial Calculators & Blogs](https://sidehustlemath.com)
+- 🎨 [Micro-SaaS that analyze trader's trades log](https://analyzemytrades.com)
+
 
 
 ## 📫 Let's Connect
