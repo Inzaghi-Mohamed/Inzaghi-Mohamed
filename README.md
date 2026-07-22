@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Abdirizak!
-
-I'm a self-taught/Coding bootcamp graduate as Full stack Developer passionate about building modern, fast, and accessible web apps with both traditional and vibes methods!.
+Full stack Developer passionate about building modern, fast, and accessible web apps with both traditional and vibes methods!.
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (ES6+)
